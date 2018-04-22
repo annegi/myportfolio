@@ -1,0 +1,27 @@
+#Contact {
+  background-image: url('https://images.pexels.com/photos/958169/pexels-photo-958169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: cover;
+  min-height: 700px;
+  padding-bottom: 300px;
+}
+
+
+#About {
+   background-image: url('https://images.pexels.com/photos/958168/pexels-photo-958168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: auto;
+  min-height: 800px;
+  padding-top: 100px;
+}
+
+.fa {
+  font-size: 40px;
+}
+
+#Project {
+  background-image: url('https://images.pexels.com/photos/273222/pexels-photo-273222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: cover;
+  min-height: 700px;
+  padding-top: 150px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
